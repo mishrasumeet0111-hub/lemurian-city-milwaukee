@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://milwaukee.lemurianstudios.com/sitemap.xml
